@@ -43,11 +43,11 @@ contract Dex is Wallet {
     //limit ordewrs will be put in by the user
     //market makers makes orders in the order book or a taker or takes orders in the order book
 
-    function createLimitOrder() {
+   // function createLimitOrder() {
         //the best price will always bge first in the order book 
         //buy side is the higherst price at the top of thye order book/selll side is lowest price
 
-    }
+   // }
 
 
 }
